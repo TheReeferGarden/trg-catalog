@@ -1,0 +1,1505 @@
+{
+  "about": "Items that must never be listed on The Reefer Garden preorder catalog because they are illegal to sell or possess in Arkansas. The Sun Pet daily sync must skip any item whose sku is in \"excluded\" or \"otherSunPetCodes\", or whose scientific name matches a \"blockedTaxa\" pattern (case-insensitive regex). Items needing a permit or depending on source/strain are listed under \"reviewNotBlocked\" for information only.",
+  "updated": "2026-10-03",
+  "excluded": [
+    {
+      "sku": "247-0028-1",
+      "name": "Albino African Clawed Frog Reg",
+      "section": "Freshwater",
+      "category": "Aquatic Amphibian",
+      "scientific": "Xenopus laevis",
+      "reason": "African clawed frog: amphibian not on AGFC R1.01/R1.02/R1.03 (R1.01 lists no amphibians; R1.02 lists only Pyxicephalus, Hymenochirus, Litoria/Nyctimystes/Ranoidea, Isthmura, Bombina, Ceratophrys, Trachycephalus, Osteopilus, dart frogs, Dyscophus) and not on the J1.01 approved aquatic list, so prohibited until evaluated.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "247-0027-1",
+      "name": "Grey African Clawed Frog Reg",
+      "section": "Freshwater",
+      "category": "Aquatic Amphibian",
+      "scientific": "Xenopus laevis",
+      "reason": "African clawed frog: same as 247-0028-1.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "545-0030-3",
+      "name": "Painted Chubby Frog Med",
+      "section": "Reptile",
+      "category": "Frog",
+      "scientific": "Kaloula pulchra",
+      "reason": "Painted chubby frog: amphibian not on any AGFC R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "545-0033-3",
+      "name": "Red & Black Walking Frog Med",
+      "section": "Reptile",
+      "category": "Frog",
+      "scientific": "Phrynomerus bifasciatus",
+      "reason": "Red & black walking (rubber) frog: amphibian not on any AGFC R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "545-0034-3",
+      "name": "Red Eye Tree Frog Med",
+      "section": "Reptile",
+      "category": "Frog",
+      "scientific": "Agalychnis callidryas",
+      "reason": "Red-eyed tree frog: amphibian not on any AGFC R1 list (R1.02 treefrogs are only Litoria, Nyctimystes, Ranoidea, Trachycephalus, Osteopilus).",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "545-0136-1",
+      "name": "Striped Walking Frog Sml",
+      "section": "Reptile",
+      "category": "Frog",
+      "scientific": "Kassina senegalensis",
+      "reason": "Striped walking frog: amphibian not on any AGFC R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "530-0016-3",
+      "name": "Fischer Chameleon Med",
+      "section": "Reptile",
+      "category": "Chameleon",
+      "scientific": "Kinyongia fischeri",
+      "reason": "Fischer's chameleon: R1.01 lists chameleons only \"in part\" (Calumma, Chamaeleo, Fucifer, Trioceros); Kinyongia is not listed.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "521-0020-3",
+      "name": "Asian House Gecko Med",
+      "section": "Reptile",
+      "category": "Gecko",
+      "scientific": "Hemidactylus frenatus",
+      "reason": "Asian house gecko: R1.01 Gekkonid geckos list (Cyrtodactylus, Gehyra, Gekko, Heteronotia, Lepidodactylus, Lygodactylus, Matoatoa, Paragehyra, Paroedura, Phelsuma, Pseudogekko, Ramigekko, Rhinogekko, Uroplatus) excludes Hemidactylus.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "521-0033-3",
+      "name": "White Spotted Gecko Med",
+      "section": "Reptile",
+      "category": "Gecko",
+      "scientific": "Tarentola annularis",
+      "reason": "White-spotted (ringed wall) gecko: genus Tarentola not on any AGFC R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "536-0020-3",
+      "name": "Emerald Swift Med",
+      "section": "Reptile",
+      "category": "Lizard - Miscellaneous",
+      "scientific": "Sceloporus malachiticus",
+      "reason": "Emerald swift: genus Sceloporus not on any AGFC R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "536-0041-3",
+      "name": "Pink Belly Swift Med",
+      "section": "Reptile",
+      "category": "Lizard - Miscellaneous",
+      "scientific": "Sceloporus variabilis",
+      "reason": "Pink-bellied (rose-bellied) swift: genus Sceloporus not on any AGFC R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "512-0013-3",
+      "name": "Diadema Ratsnake Med",
+      "section": "Reptile",
+      "category": "Ratsnake",
+      "scientific": "Spalerosophis diadema",
+      "reason": "Diadem ratsnake: Spalerosophis is not among the R1.01 Eurasian ratsnake genera (Archelaphe, Elaphe, Euprepiophis, Gonyosoma, Oreocryptophis, Zamenis) or any other R1 entry.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "709-0008-9",
+      "name": "Black Cap Conure Hand Fed",
+      "section": "Bird",
+      "category": "Conure",
+      "scientific": "Pyrrhura rupicola",
+      "reason": "Black-capped conure: R1.01 lists only Green-cheek conure (Pyrrhura molinae) in Pyrrhura; P. rupicola is not on any R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "709-0035-9",
+      "name": "Opaline Black Cap Conure",
+      "section": "Bird",
+      "category": "Conure",
+      "scientific": "Pyrrhura rupicola",
+      "reason": "Opaline black-capped conure: same species as 709-0008-9.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "709-0017-9",
+      "name": "Half Moon Conure",
+      "section": "Bird",
+      "category": "Conure",
+      "scientific": "Eupsittula canicularis (Sun Pet: Aratinga canicularis)",
+      "reason": "Half-moon (orange-fronted) conure: R1.01 lists only Brown-throated conure (Eupsittula pertinax) in Eupsittula; not on any R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "715-0008-9",
+      "name": "Indian Spice Finch",
+      "section": "Bird",
+      "category": "Finch",
+      "scientific": "Lonchura punctulata",
+      "reason": "Spice finch / scaly-breasted munia: R1.01 lists only Society finch (Lonchura striata domestica) in Lonchura; not on any R1 list.",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "247-0050-1",
+      "name": "Assorted Axolotl Reg",
+      "section": "Freshwater",
+      "scientific": "Ambystoma mexicanum",
+      "reason": "Axolotl; removed 2026-10-02 per Richard (see reefer-preorder/rules.md).",
+      "citation": "AGFC Addendum R1.03 Prohibited Captive Wildlife Species List (eff. 2026-05-02): Axolotl (Ambystoma mexicanum); also federal Lacey Act injurious wildlife 50 CFR 16.14 (genus Ambystoma).",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.ecfr.gov/current/title-50/chapter-I/subchapter-B/part-16/subpart-B/section-16.14"
+      ],
+      "removedFromCatalog": "2026-10-02"
+    },
+    {
+      "sku": "217-0021-3",
+      "name": "Red Belly Piranha Med",
+      "section": "Freshwater",
+      "scientific": "Pygocentrus nattereri",
+      "reason": "Piranha family Serrasalmidae; previously banned in rules.md.",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ],
+      "removedFromCatalog": "before 2026-10-03"
+    },
+    {
+      "sku": "217-0020-1",
+      "name": "Red Belly Pacu Reg",
+      "section": "Freshwater",
+      "scientific": "Colossoma bidens",
+      "reason": "Pacu, family Serrasalmidae; previously banned in rules.md.",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ],
+      "removedFromCatalog": "before 2026-10-03"
+    },
+    {
+      "sku": "244-0182-1",
+      "name": "Silver Dollar Reg",
+      "section": "Freshwater",
+      "scientific": "Metynnis argenteus",
+      "reason": "Silver dollar, family Serrasalmidae; previously banned in rules.md.",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ],
+      "removedFromCatalog": "before 2026-10-03"
+    },
+    {
+      "sku": "244-0188-3",
+      "name": "Red Hook Metynnis Med",
+      "section": "Freshwater",
+      "scientific": "Myleus rubripinnis",
+      "reason": "Red hook silver dollar, family Serrasalmidae; previously banned in rules.md.",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ],
+      "removedFromCatalog": "before 2026-10-03"
+    },
+    {
+      "sku": "250-0012-1",
+      "name": "Electric Blue Crawfish Reg",
+      "section": "Freshwater",
+      "scientific": "Procambarus alleni",
+      "reason": "Everglades crayfish (Procambarus alleni); previously banned in rules.md.",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ],
+      "removedFromCatalog": "before 2026-10-03"
+    },
+    {
+      "sku": "250-0012-5",
+      "name": "Electric Blue Crawfish Lrg",
+      "section": "Freshwater",
+      "scientific": "Procambarus alleni",
+      "reason": "Everglades crayfish (Procambarus alleni); previously banned in rules.md.",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ],
+      "removedFromCatalog": "before 2026-10-03"
+    }
+  ],
+  "blockedTaxa": [
+    {
+      "pattern": "\\b(Xenopus|Kaloula|Phrynomerus|Agalychnis|Kassina|Kinyongia|Tarentola|Spalerosophis)\\b|Hemidactylus frenatus|Sceloporus (malachiticus|variabilis)|Pyrrhura rupicola|(Aratinga|Eupsittula) canicularis|Lonchura punctulata",
+      "label": "Species removed 2026-10-03 (not on AGFC R1 lists)",
+      "citation": "AGFC Code 09.01 (eff. 2026-05-02) and Addendum R1.01 Part B / R1.02 Part C / R1.03 Part B (eff. 2026-05-02): \"Species not listed in Addenda R1.01, R1.02, or R1.03 are prohibited until evaluated.\" Species is not on any R1 list.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/123bc1be-1121-44f1-9e99-549f18d25803"
+      ]
+    },
+    {
+      "pattern": "\\b(Ambystoma|Andrias|Aneides|Aquiloeurycea|Calotriton|Chioglossa|Chiropterotriton|Cryptobranchus|Cynops|Desmognathus|Ensatina|Euproctus|Eurycea|Hydromantes|Hynobius|Ichthyosaura|Laotriton|Lissotriton|Neurergus|Notophthalmus|Ommatotriton|Onychodactylus|Pachytriton|Paramesotriton|Plethodon|Pleurodeles|Proteus|Pseudobranchus|Pseudotriton|Salamandra|Salamandrella|Salamandrina|Siren|Taricha|Triturus|Tylototriton)\\b",
+      "label": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03",
+      "citation": "50 CFR 16.14(a); AGFC Addendum R1.03",
+      "sources": [
+        "https://www.ecfr.gov/current/title-50/chapter-I/subchapter-B/part-16/subpart-B/section-16.14",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241"
+      ]
+    },
+    {
+      "pattern": "\\b(Pygocentrus|Serrasalmus|Pristobrycon|Pygopristis|Catoprion|Colossoma|Piaractus|Mylossoma|Metynnis|Myleus|Myloplus|Mylesinus|Ossubtus|Tometes|Utiaritichthys|Acnodon)\\b",
+      "label": "Piranhas, pacus, silver dollars (family Serrasalmidae)",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ]
+    },
+    {
+      "pattern": "\\b(Channa|Parachanna|Clarias|Heterobranchus|Gasterosteus|Pungitius|Culaea|Apeltes|Silurus|Hypophthalmichthys|Mylopharyngodon|Phoxinus|Pseudorasbora|Rutilus|Leucos|Lates|Perccottus|Perca|Sander lucioperca|Scardinius|Scardinus|Neogobius|Gymnocephalus|Chondrostoma)\\b|Prochilodus lineatus|Astyanax aeneus|Leuciscus idus|Morone americana|Micropterus henshalli|Alosa (pseudoharengus|aestivalis)|Carassius (gibelio|carassius)",
+      "label": "Other AGFC J1.04 prohibited fish (snakeheads, walking catfish, sticklebacks, Asian/European carps etc.); silver/bighead/black carp also AGFC 26.30 and 50 CFR 16.13",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ]
+    },
+    {
+      "pattern": "\\bCherax\\b|Procambarus (alleni|virginalis|fallax)|(Orconectes|Faxonius) rusticus|\\bEriocheir\\b",
+      "label": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ]
+    },
+    {
+      "pattern": "Pomacea (canaliculata|maculata)|Melanoides|Tarebia|Cipangopaludina|Potamopyrgus|Dreissena|Limnoperna|Radix auricularia|Biomphalaria havanensis",
+      "label": "Prohibited snails/mussels (channeled & giant apple snail, Malaysian trumpet snail, mystery snails Cipangopaludina, NZ mudsnail, zebra/quagga/golden mussels)",
+      "citation": "AGFC Code 26.13 + Addendum J1.04 Prohibited Exotic Aquatic Species List (eff. 2026-07-01): unlawful to import, sell, purchase, trade, stock, culture, transport, or possess live specimens.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/500890bd-6ab1-49f9-b000-c08591de2282",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
+      ]
+    },
+    {
+      "pattern": "\\b(Eunectes|Terrapene|Tupinambis|Salvator|Callopistes|Crocodilurus|Dicrodon|Euspondylus|Proctoporus|Teius|Cynomys|Mastomys|Graphiurus|Rhinella)\\b|Python (bivittatus|molurus|sebae|natalensis)|(Malayopython|Python|Broghammerus) reticulatus|Bufo marinus",
+      "label": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15",
+      "citation": "AGFC Addendum R1.03 (eff. 2026-05-02); 50 CFR 16.11, 16.15",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/15936ed3-f740-49b0-a142-984fc4cce241",
+        "https://www.ecfr.gov/current/title-50/chapter-I/subchapter-B/part-16"
+      ]
+    },
+    {
+      "pattern": "Salvinia (molesta|auriculata|biloba|herzogii)|Eichhornia|Pontederia crassipes|\\bLythrum\\b|Imperata cylindrica|Hydrilla|Azolla pinnata|Hygrophila polysperma|Limnophila sessiliflora|Ottelia|Monochoria|Sagittaria sagittifolia|Lagarosiphon|Ipomoea aquatica|Caulerpa taxifolia|Sparganium erectum",
+      "label": "Prohibited/noxious plants: Arkansas State Plant Board Prohibited Plant List (giant salvinia, water hyacinth, purple loosestrife/Lythrum, Japanese blood grass) and USDA federal noxious weeds 7 CFR 360.200(a)",
+      "citation": "Ark. State Plant Board Plant Diseases and Pests Rules (209.02.19 Ark. Code R. 009), Prohibited Plant List; 7 CFR 360.200(a)",
+      "sources": [
+        "https://www.law.cornell.edu/regulations/arkansas/209-02-19-Ark-Code-R-009",
+        "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-III/part-360/section-360.200"
+      ]
+    }
+  ],
+  "otherSunPetCodes": [
+    {
+      "sku": "172-0001-1",
+      "name": "Florida Crawfish Each Reg",
+      "scientific": "Procambarus alleni",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "217-0007-1",
+      "name": "Black Piranha Reg",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0007-2",
+      "name": "Black Piranha M/S",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0007-3",
+      "name": "Black Piranha Med",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0007-4",
+      "name": "Black Piranha M/L",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0007-5",
+      "name": "Black Piranha Lrg",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0020-0",
+      "name": "Red Belly Pacu Sml",
+      "scientific": "Colossoma bidens",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0020-2",
+      "name": "Red Belly Pacu M/S",
+      "scientific": "Colossoma bidens",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0020-3",
+      "name": "Red Belly Pacu Med",
+      "scientific": "Colossoma bidens",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0020-4",
+      "name": "Red Belly Pacu M/L",
+      "scientific": "Colossoma bidens",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0020-5",
+      "name": "Red Belly Pacu Lrg",
+      "scientific": "Colossoma bidens",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0021-0",
+      "name": "Red Belly Piranha Sml",
+      "scientific": "Pygocentrus nattereri",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0021-1",
+      "name": "Red Belly Piranha Reg",
+      "scientific": "Pygocentrus nattereri",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0021-2",
+      "name": "Red Belly Piranha M/S",
+      "scientific": "Pygocentrus nattereri",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0021-4",
+      "name": "Red Belly Piranha M/L",
+      "scientific": "Pygocentrus nattereri",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0021-5",
+      "name": "Red Belly Piranha Lrg",
+      "scientific": "Pygocentrus nattereri",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0046-1",
+      "name": "White Piranha Reg",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0046-3",
+      "name": "White Piranha Med",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0050-0",
+      "name": "Albino Red Belly Pacu Sml",
+      "scientific": "Colossoma bidens 'Albino'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0050-1",
+      "name": "Albino Red Belly Pacu Reg",
+      "scientific": "Colossoma bidens 'Albino'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0050-2",
+      "name": "Albino Red Belly Pacu M/S",
+      "scientific": "Colossoma bidens 'Albino'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0050-3",
+      "name": "Albino Red Belly Pacu Med",
+      "scientific": "Colossoma bidens 'Albino'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0050-4",
+      "name": "Albino Red Belly Pacu M/L",
+      "scientific": "Colossoma bidens 'Albino'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0050-7",
+      "name": "Albino Red Belly Pacu Shw",
+      "scientific": "Colossoma bidens 'Albino'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0061-0",
+      "name": "Black Pacu Sml",
+      "scientific": "Piaractus brachypomus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0061-2",
+      "name": "Black Pacu M/S",
+      "scientific": "Piaractus brachypomus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0086-1",
+      "name": "Wimple Piranha Reg",
+      "scientific": "Catoprion mento",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0095-2",
+      "name": "Sheep Head Pacu M/S",
+      "scientific": "Acnodon normani",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0095-4",
+      "name": "Sheep Head Pacu M/L",
+      "scientific": "Acnodon normani",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0095-5",
+      "name": "Sheep Head Pacu Lrg",
+      "scientific": "Acnodon normani",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0116-3",
+      "name": "San Francisco Piranha Med",
+      "scientific": "Pygocentrus piraya",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0116-4",
+      "name": "San Francisco Piranha M/L",
+      "scientific": "Pygocentrus piraya",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0117-2",
+      "name": "Green Tiger Piranha M/S",
+      "scientific": "Serrasalmus menueli",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "217-0120-3",
+      "name": "Gold Diamond Piranha Med",
+      "scientific": "Serrasalmus rhombeus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0182-0",
+      "name": "Silver Dollar Sml",
+      "scientific": "Metynnis argenteus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0182-2",
+      "name": "Silver Dollar M/S",
+      "scientific": "Metynnis argenteus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0182-3",
+      "name": "Silver Dollar Med",
+      "scientific": "Metynnis argenteus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0182-4",
+      "name": "Silver Dollar M/L",
+      "scientific": "Metynnis argenteus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0182-5",
+      "name": "Silver Dollar Lrg",
+      "scientific": "Metynnis argenteus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0182-6",
+      "name": "Silver Dollar Xlg",
+      "scientific": "Metynnis argenteus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0182-7",
+      "name": "Silver Dollar Shw",
+      "scientific": "Metynnis argenteus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0184-0",
+      "name": "Black Bar Silver Dollar Tank Raised Sml",
+      "scientific": "Myleus schomburgkii",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0184-1",
+      "name": "Black Bar Silver Dollar Tank Raised Reg",
+      "scientific": "Myleus schomburgkii",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0184-3",
+      "name": "Black Bar Silver Dollar Tank Raised Med",
+      "scientific": "Myleus schomburgkii",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0184-5",
+      "name": "Black Bar Silver Dollar Tank Raised Lrg",
+      "scientific": "Myleus schomburgkii",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0186-0",
+      "name": "Wide Bar Schomburgkii Silver Dollar Sml",
+      "scientific": "Myleus schomburgkii var. Rainbow",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0186-2",
+      "name": "Wide Bar Schomburgkii Silver Dollar M/S",
+      "scientific": "Myleus schomburgkii var. wide bar",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0186-3",
+      "name": "Wide Bar Schomburgkii Silver Dollar Med",
+      "scientific": "Myleus schomburgkii var. wide bar",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0186-5",
+      "name": "Wide Bar Schomburgkii Silver Dollar Lrg",
+      "scientific": "Myleus schomburgkii var. wide bar",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0188-0",
+      "name": "Red Hook Metynnis Sml",
+      "scientific": "Myleus rubripinnis rubripinnis",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0188-1",
+      "name": "Red Hook Metynnis Reg",
+      "scientific": "Myleus rubripinnis rubripinnis",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0188-2",
+      "name": "Red Hook Metynnis M/S",
+      "scientific": "Myleus rubripinnis rubripinnis",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0188-5",
+      "name": "Red Hook Metynnis Lrg",
+      "scientific": "Myleus rubripinnis rubripinnis",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0188-6",
+      "name": "Red Hook Metynnis Xlg",
+      "scientific": "Myleus rubripinnis rubripinnis",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0188-7",
+      "name": "Red Hook Metynnis Shw",
+      "scientific": "Myleus rubripinnis rubripinnis",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0190-1",
+      "name": "Mylossoma Silver Dollar Reg",
+      "scientific": "Mylossoma duriventre",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0195-1",
+      "name": "Black Hook Metynnis Reg",
+      "scientific": "Myleus sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0195-3",
+      "name": "Black Hook Metynnis Med",
+      "scientific": "Myleus sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0195-5",
+      "name": "Black Hook Metynnis Lrg",
+      "scientific": "Myleus sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0195-7",
+      "name": "Black Hook Metynnis Shw",
+      "scientific": "Myleus sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0196-1",
+      "name": "Mylossoma Aureum Reg",
+      "scientific": "Mylossoma aureum",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0197-1",
+      "name": "Roosevelti Silver Dollar Reg",
+      "scientific": "Metynnis lippincottianus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0197-3",
+      "name": "Roosevelti Silver Dollar Med",
+      "scientific": "Metynnis lippincottianus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0215-0",
+      "name": "Green Myleus Silver Dollar Sml",
+      "scientific": "Myleus sp. 'Green'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0215-1",
+      "name": "Green Myleus Silver Dollar Reg",
+      "scientific": "Myleus sp. 'Green'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0215-2",
+      "name": "Green Myleus Silver Dollar M/S",
+      "scientific": "Myleus sp. 'Green'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0215-6",
+      "name": "Green Myleus Silver Dollar Lrg",
+      "scientific": "Myleus sp. 'Green'",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0218-1",
+      "name": "Tiger Silver Dollar Reg",
+      "scientific": "Metynnis fasciatus",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0245-0",
+      "name": "Blackberry Red Hook Silver Dollar Sml",
+      "scientific": "Myleus Sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0245-1",
+      "name": "Blackberry Red Hook Silver Dollar Reg",
+      "scientific": "Myleus Sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0245-2",
+      "name": "Blackberry Red Hook Silver Dollar M/S",
+      "scientific": "Myleus Sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0245-3",
+      "name": "Blackberry Red Hook Silver Dollar Med",
+      "scientific": "Myleus Sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0245-4",
+      "name": "Blackberry Red Hook Silver Dollar M/L",
+      "scientific": "Myleus Sp.",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0299-1",
+      "name": "Sailfin Red Hook Myleus Reg",
+      "scientific": "Myleus setiger",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0299-2",
+      "name": "Sailfin Red Hook Myleus M/S",
+      "scientific": "Myleus setiger",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0299-3",
+      "name": "Sailfin Red Hook Myleus Med",
+      "scientific": "Myleus setiger",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0341-1",
+      "name": "Metynnis sp. Onigiri Silver Dollar Reg",
+      "scientific": "Metynnis sp. Onigiri",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "244-0362-1",
+      "name": "Yellowfin Red Hook Silver Dollar Reg",
+      "scientific": "Myloplus arnoldi",
+      "matchedRule": "Piranhas, pacus, silver dollars (family Serrasalmidae)"
+    },
+    {
+      "sku": "247-0001-2",
+      "name": "Grey African Clawed Frog M/S",
+      "scientific": "Xenopus laevis",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0001-3",
+      "name": "Grey African Clawed Frog Med",
+      "scientific": "Xenopus laevis",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0027-3",
+      "name": "Grey African Clawed Frog Med",
+      "scientific": "Xenopus laevis",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0027-5",
+      "name": "Grey African Clawed Frog Lrg",
+      "scientific": "Xenopus laevis",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0028-2",
+      "name": "Albino African Clawed Frog M/S",
+      "scientific": "Xenopus laevis 'Albino'",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0028-3",
+      "name": "Albino African Clawed Frog Med",
+      "scientific": "Xenopus laevis 'Albino'",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0028-5",
+      "name": "Albino African Clawed Frog Lrg",
+      "scientific": "Xenopus laevis 'Albino'",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0032-1",
+      "name": "Mixed Fruit Albino African Clawed Frog Reg",
+      "scientific": "Xenopus laevis 'Albino'",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0032-3",
+      "name": "Mixed Fruit Albino African Clawed Frog Med",
+      "scientific": "Xenopus laevis 'Albino'",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "247-0040-0",
+      "name": "Albino Axolotl Sml",
+      "scientific": "Ambystoma mexicanum 'Albino'",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0040-2",
+      "name": "Albino Axolotl M/S",
+      "scientific": "Ambystoma mexicanum 'Albino'",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0040-3",
+      "name": "Albino Axolotl Med",
+      "scientific": "Ambystoma mexicanum 'Albino'",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0040-7",
+      "name": "Albino Axolotl Shw",
+      "scientific": "Ambystoma mexicanum 'Albino'",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0041-1",
+      "name": "Axolotl Reg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0041-2",
+      "name": "Axolotl M/S",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0041-3",
+      "name": "Axolotl Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0041-5",
+      "name": "Axolotl Lrg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0041-6",
+      "name": "Axolotl Xlg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0042-3",
+      "name": "GFP Axolotl Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0043-0",
+      "name": "Leucistic Axolotl Sml",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0043-1",
+      "name": "Leucistic Axolotl Reg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0043-2",
+      "name": "Leucistic Axolotl M/S",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0043-3",
+      "name": "Leucistic Axolotl Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0043-6",
+      "name": "Leucistic Axolotl Xlg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0045-2",
+      "name": "Melanistic Axolotl M/S",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0045-3",
+      "name": "Melanistic Axolotl Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0045-5",
+      "name": "Melanistic Axolotl Lrg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0045-6",
+      "name": "Melanistic Axolotl Xlg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0045-8",
+      "name": "Melanistic Axolotl Jbo",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0046-5",
+      "name": "Greater Siren Lrg",
+      "scientific": "Siren lacertina",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0047-3",
+      "name": "Lesser Siren Med",
+      "scientific": "Siren intermedia",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0048-3",
+      "name": "Water Dog Med",
+      "scientific": "Ambystoma tigrinum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0048-5",
+      "name": "Water Dog Lrg",
+      "scientific": "Ambystoma tigrinum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0050-0",
+      "name": "Assorted Axolotl Sml",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0050-2",
+      "name": "Assorted Axolotl M/S",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0050-3",
+      "name": "Assorted Axolotl Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0051-3",
+      "name": "Axolotl Assorted B Grade Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0054-1",
+      "name": "Black Wild Axolotl Reg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0054-3",
+      "name": "Black Wild Axolotl Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0055-1",
+      "name": "Leucistic Axolotl Imperfect Sml",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0057-3",
+      "name": "Purple Xanthic Axolotl Med",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "247-0058-1",
+      "name": "Leucistic Axolotl B Grade Reg",
+      "scientific": "Ambystoma mexicanum",
+      "matchedRule": "Salamander genera: federal injurious wildlife 50 CFR 16.14 (incl. axolotl, sirens, water dogs); Salamandridae and axolotl also AGFC R1.03"
+    },
+    {
+      "sku": "250-0001-3",
+      "name": "Australian Blue Yabbie Crawfish Med",
+      "scientific": "Cherax quadricarinatus",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0012-0",
+      "name": "Electric Blue Crawfish Sml",
+      "scientific": "Procambarus alleni",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0028-3",
+      "name": "Tiger Rainbow Power Lobster Med",
+      "scientific": "Cherax cf. papuanus",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0111-1",
+      "name": "Australian Red Claw Lobster Reg",
+      "scientific": "Cherax quadricarinatus",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0111-5",
+      "name": "Australian Red Claw Lobster Lrg",
+      "scientific": "Cherax quadricarinatus",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0189-1",
+      "name": "Papua Blue Moon Lobster Reg",
+      "scientific": "Cherax lorentzi",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0189-3",
+      "name": "Papua Blue Moon Lobster Med",
+      "scientific": "Cherax lorentzi",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0190-1",
+      "name": "Papua Black Sapphire Lobster Reg",
+      "scientific": "Cherax lorentzi",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0190-3",
+      "name": "Papua Black Sapphire Lobster Med",
+      "scientific": "Cherax lorentzi",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0191-1",
+      "name": "Papua Xtreme Red Lobster Reg",
+      "scientific": "Cherax holthuisi",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0195-1",
+      "name": "Papua Blue Boesemani  Lobster Reg",
+      "scientific": "Cherax boesemani",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0195-3",
+      "name": "Papua Blue Boesemani  Lobster Med",
+      "scientific": "Cherax boesemani",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0195-5",
+      "name": "Papua Blue Boesemani  Lobster Lrg",
+      "scientific": "Cherax boesemani",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0198-1",
+      "name": "Papua Zebra Tiger Lobster Reg",
+      "scientific": "Cherax peknyi",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0198-3",
+      "name": "Papua Zebra Tiger Lobster Med",
+      "scientific": "Cherax peknyi",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0201-1",
+      "name": "Papua Apricot Lobster Reg",
+      "scientific": "Cherax holthuis",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0201-3",
+      "name": "Papua Apricot Lobster Med",
+      "scientific": "Cherax holthuis",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0212-1",
+      "name": "Papua Red Boesemani Lobster Reg",
+      "scientific": "Cherax boesemani",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "250-0223-1",
+      "name": "Papua Monticola Lobster Reg",
+      "scientific": "Cherax monticola",
+      "matchedRule": "Prohibited crayfish/crabs (Cherax redclaw/yabby/Papua lobsters, Everglades \"electric blue\" and marbled crayfish, rusty crayfish, mitten crabs)"
+    },
+    {
+      "sku": "253-0080-1",
+      "name": "Malaya Livebearer Snail Reg",
+      "scientific": "Melanoides tuberculata",
+      "matchedRule": "Prohibited snails/mussels (channeled & giant apple snail, Malaysian trumpet snail, mystery snails Cipangopaludina, NZ mudsnail, zebra/quagga/golden mussels)"
+    },
+    {
+      "sku": "503-0011-1",
+      "name": "Green Anaconda Sml",
+      "scientific": "Eunectes murinus",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "521-0009-3",
+      "name": "Crocodile Gecko Med",
+      "scientific": "Tarentola mauritanica",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "521-0126-3",
+      "name": "Helmeted Gecko Med",
+      "scientific": "Tarentola chazaliae",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "521-0135-3",
+      "name": "Crocodile Gecko B Grade Med",
+      "scientific": "Tarentola mauritanica",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "536-0005-1",
+      "name": "Black and White Tegu Sml",
+      "scientific": "Tupinambis teguixin",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "536-0176-1",
+      "name": "Argentine Black and White Tegu Sml",
+      "scientific": "Tupinambis merianae",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "536-0176-2",
+      "name": "Argentine Black and White Tegu M/S",
+      "scientific": "Tupinambis merianae",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "536-0176-6",
+      "name": "Argentine Black and White Tegu Xlg",
+      "scientific": "Tupinambis merianae",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "536-0214-1",
+      "name": "Gold Tegu Sml",
+      "scientific": "Tupinambis teguixin",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "536-0228-1",
+      "name": "Argentine Red Tegu Sml",
+      "scientific": "Tupinambis rufescens",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "536-0228-2",
+      "name": "Argentine Red Tegu M/S",
+      "scientific": "Tupinambis rufescens",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "536-0246-1",
+      "name": "Blue Tegu Sml",
+      "scientific": "Salvator merianae",
+      "matchedRule": "AGFC R1.03 prohibited captive wildlife (anacondas, large pythons, box turtles, tegus, cane toads, prairie dogs, soft-fur rats, African dormice) — several also 50 CFR 16.11/16.15"
+    },
+    {
+      "sku": "545-0034-1",
+      "name": "Red Eye Tree Frog Sml",
+      "scientific": "Agalychnis callidryas",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "545-0036-3",
+      "name": "Red Legged Running Frog Med",
+      "scientific": "Kassina maculata",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "545-0037-3",
+      "name": "Striped Running Frog Med",
+      "scientific": "Kassina maculata",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "545-0150-1",
+      "name": "Albino Red Eyed Tree Frog Sml",
+      "scientific": "Agalychnis callidryas",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "545-0150-3",
+      "name": "Albino Red Eyed Tree Frog Med",
+      "scientific": "Agalychnis callidryas",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "545-0501-3",
+      "name": "Black Eyed Tree Frog Med",
+      "scientific": "Agalychnis moreletii",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "709-0040-9",
+      "name": "Opaline Black Cap Conure   Imperfect",
+      "scientific": "Pyrrhura rupicola",
+      "matchedRule": "Species removed 2026-10-03 (not on AGFC R1 lists)"
+    },
+    {
+      "sku": "815-0003-9",
+      "name": "Water Hyacinth Floating Plant *Ga Sales Only*",
+      "scientific": "Eichhornia crassipes",
+      "matchedRule": "Prohibited/noxious plants: Arkansas State Plant Board Prohibited Plant List (giant salvinia, water hyacinth, purple loosestrife/Lythrum, Japanese blood grass) and USDA federal noxious weeds 7 CFR 360.200(a)"
+    }
+  ],
+  "reviewNotBlocked": [
+    {
+      "skus": [
+        "247-0037-1"
+      ],
+      "name": "African Dwarf Frog Reg",
+      "scientific": "Hymenochirus curtipes",
+      "decidedBy": "AGFC Addendum R1.02 (Permit Required): selling requires a Wildlife Breeder/Dealer Permit (Code 09.07); buyers must acquire from a permitted dealer (Code 09.02).",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/3958d343-9fb8-473d-b5ac-7e2e499bd171"
+      ]
+    },
+    {
+      "skus": [
+        "223-0001-1",
+        "223-0001-3"
+      ],
+      "name": "Alligator Gar Reg/Med",
+      "scientific": "Atractosteus spatula",
+      "decidedBy": "Alligator gar is a GAME FISH (Code 01.00-C). Code 26.20 bans selling game fish unless raised in a licensed fish-farming operation; it is not on the J1.01 approved list, so Code 35.09 requires an Unlisted Species Possession Permit for a fish dealer (Exception C covers only tropical/marine aquarium fish).",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/956e21e2-3382-46f9-94b4-1f91fac73d03",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/b6063910-0d06-4272-a3ff-ee02d9a76601",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/dc8ada7c-2129-4ce1-87c5-99275c10a389"
+      ]
+    },
+    {
+      "skus": [
+        "250-0011-1"
+      ],
+      "name": "Dwarf Orange Mexican Lobster Reg",
+      "scientific": "Cambarellus patzcuarensis",
+      "decidedBy": "Not prohibited (not on J1.04), but J1.01 approves only Procambarus acutus and P. clarkii. Code 39.04 says imported crayfish must meet Chapter 35.00 and J1.00, and the Code 35.09 aquarium exception covers only fish, so an Unlisted Species Possession Permit is probably needed.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/06f7cc79-6b74-4109-93ec-8e3b643f855f",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/b6063910-0d06-4272-a3ff-ee02d9a76601"
+      ]
+    },
+    {
+      "skus": [
+        "190-0005-0",
+        "190-0005-1",
+        "190-0005-2",
+        "190-0005-3",
+        "190-0005-4",
+        "190-0005-5",
+        "190-0009-1",
+        "190-0009-2",
+        "190-0009-3",
+        "190-0009-4",
+        "190-0072-2",
+        "190-0076-2",
+        "190-0024-1",
+        "190-0024-2",
+        "190-0015-1",
+        "190-0074-1"
+      ],
+      "name": "Koi (all sizes)",
+      "scientific": "Cyprinus carpio",
+      "decidedBy": "Approved on J1.01 only when koi come from a permitted source and were spawned and reared in the United States. Sun Pet sourcing decides.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/dc8ada7c-2129-4ce1-87c5-99275c10a389"
+      ]
+    },
+    {
+      "skus": [
+        "223-0011-3"
+      ],
+      "name": "Longnose Gar Med",
+      "scientific": "Lepisosteus osseus",
+      "decidedBy": "Native species. J1.01 approves farm-reared fish only, and wild-caught native aquatic wildlife may not be sold (Code 26.26 B). Source decides.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/dc8ada7c-2129-4ce1-87c5-99275c10a389",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/4307d354-d2de-4ea5-ad67-9ac63b9d0831"
+      ]
+    },
+    {
+      "skus": [
+        "521-0013-3"
+      ],
+      "name": "Flying Gecko Med",
+      "scientific": "Ptychozoon lionotum (now Gekko lionotum)",
+      "decidedBy": "Ptychozoon was merged into Gekko in 2019, and R1.01 lists the genus Gekko. It is legal only if AGFC follows the current taxonomy; otherwise it is unlisted and prohibited until evaluated.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1"
+      ]
+    },
+    {
+      "skus": [
+        "503-0052-3"
+      ],
+      "name": "Saharan Sand Boa Med",
+      "scientific": "Gongylophis muelleri (= Eryx muelleri)",
+      "decidedBy": "R1.01 lists Eryx (small boids), and Gongylophis is generally treated as Eryx. Probably fine.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/c8f931f3-be98-4c0c-a4cb-2a4fff2782a1"
+      ]
+    },
+    {
+      "skus": [
+        "803-0066-1",
+        "803-0068-1",
+        "800-0055-1",
+        "803-0048-1"
+      ],
+      "name": "Cherry Hedge, Green Hedge (x2), Scarlet Telanthera",
+      "scientific": "Alternanthera ficoidea / A. reineckii",
+      "decidedBy": "The Arkansas State Plant Board lists \"Alligatorweed (Alternanthera spp.)\" as a noxious weed (public nuisance), and selling nursery stock containing noxious weeds is prohibited. Alternanthera is not on the 4-species Prohibited Plant List, so a Plant Board ruling decides.",
+      "sources": [
+        "https://www.law.cornell.edu/regulations/arkansas/209-02-19-Ark-Code-R-009"
+      ]
+    }
+  ]
+}
