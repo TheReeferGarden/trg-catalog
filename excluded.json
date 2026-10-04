@@ -428,6 +428,179 @@
       "category": "Dry Goods - Miscellaneous",
       "reason": "Richard: not sold on preorder page",
       "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0001-1",
+      "name": "Albino Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0011-1",
+      "name": "Assorted Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0003-1",
+      "name": "Black Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0004-1",
+      "name": "Blue Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0006-0",
+      "name": "Gold Mystery Snail Sml",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacaea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0006-1",
+      "name": "Gold Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0009-1",
+      "name": "Ivory Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0009-5",
+      "name": "Ivory Mystery Snail Lrg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0031-1",
+      "name": "Jade Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0032-1",
+      "name": "Lavender Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacae bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0104-1",
+      "name": "Magenta Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "253-0041-1",
+      "name": "Red Mystery Snail Reg",
+      "section": "Freshwater",
+      "category": "Freshwater Snail & Mollusc",
+      "scientific": "Pomacea bridgesii",
+      "reason": "Removed at Richard's direction 2026-10-03: no Pomacea / mystery / apple snails. Note: the current AGFC J1.04 text names only Pomacea canaliculata and P. maculata as prohibited; P. bridgesii is not named.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
+      ],
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "223-0040-6",
+      "name": "Black Tropical Gar Xlg",
+      "section": "Freshwater",
+      "category": "Oddballs & Rarities",
+      "scientific": "Atractosteus tropicus",
+      "reason": "Legality in Arkansas unverified; see reviewNotBlocked",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "960-0028-3",
+      "name": "Marshall's Ferret Red T-Shirt Med",
+      "section": "Dry Good",
+      "category": "Marshall's Products",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
     }
   ],
   "blockedTaxa": [
@@ -503,6 +676,15 @@
       "sources": [
         "https://www.law.cornell.edu/regulations/arkansas/209-02-19-Ark-Code-R-009",
         "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-III/part-360/section-360.200"
+      ]
+    },
+    {
+      "pattern": "\\bPoma(c|ca)ea\\b|\\bPomacae\\b|Mystery Snail|Apple Snail",
+      "label": "All Pomacea (apple/mystery snails), including Sun Pet misspellings: Richard does not sell them (added 2026-10-03). AGFC J1.04 itself names only P. canaliculata and P. maculata.",
+      "citation": "Richard's decision 2026-10-03; AGFC Code 26.13 + Addendum J1.04 for the two named species",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.law.cornell.edu/regulations/arkansas/002-01-24-Ark-Code-R-025"
       ]
     }
   ],
@@ -1580,6 +1762,19 @@
       "sources": [
         "https://www.law.cornell.edu/regulations/arkansas/209-02-19-Ark-Code-R-009"
       ]
+    },
+    {
+      "skus": [
+        "223-0040-6"
+      ],
+      "name": "Black Tropical Gar Xlg",
+      "scientific": "Atractosteus tropicus",
+      "decidedBy": "Removed 2026-10-03 because legality is not verified. It is not prohibited (not on J1.04) and not a game fish (Code 01.00 lists only alligator gar among gars), but it is not on the J1.01 approved list. Code 35.09 requires an Unlisted Species Possession Permit unless Exception C applies (\"marine and tropical fish commonly distributed in the aquarium trade\", closed systems only). Whether a tropical gar counts is an AGFC call.",
+      "sources": [
+        "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_J1.04_large.pdf",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/b6063910-0d06-4272-a3ff-ee02d9a76601",
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/dc8ada7c-2129-4ce1-87c5-99275c10a389"
+      ]
     }
   ],
   "blockedNamePatterns": [
@@ -1591,6 +1786,26 @@
     {
       "pattern": "Tee Shirt",
       "reason": "Richard: not sold on preorder page",
+      "added": "2026-10-03"
+    },
+    {
+      "pattern": "T-Shirt",
+      "reason": "Richard: not sold on preorder page",
+      "added": "2026-10-03"
+    },
+    {
+      "pattern": "T Shirt",
+      "reason": "Richard: not sold on preorder page",
+      "added": "2026-10-03"
+    },
+    {
+      "pattern": "Mystery Snail",
+      "reason": "Richard: no Pomacea / mystery / apple snails",
+      "added": "2026-10-03"
+    },
+    {
+      "pattern": "Apple Snail",
+      "reason": "Richard: no Pomacea / mystery / apple snails",
       "added": "2026-10-03"
     }
   ]
