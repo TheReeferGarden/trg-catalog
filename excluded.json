@@ -1,5 +1,5 @@
 {
-  "about": "Items that must never be listed on The Reefer Garden preorder catalog because they are illegal to sell or possess in Arkansas. The Sun Pet daily sync must skip any item whose sku is in \"excluded\" or \"otherSunPetCodes\", or whose scientific name matches a \"blockedTaxa\" pattern (case-insensitive regex). Items needing a permit or depending on source/strain are listed under \"reviewNotBlocked\" for information only.",
+  "about": "Items that must never be listed on The Reefer Garden preorder catalog: mostly because they are illegal to sell or possess in Arkansas, plus a few Richard does not sell on the preorder page (reason \"Richard: not sold on preorder page\"). The Sun Pet daily sync must skip any item whose sku is in \"excluded\" or \"otherSunPetCodes\", or whose scientific name matches a \"blockedTaxa\" pattern (case-insensitive regex), or whose name matches a \"blockedNamePatterns\" pattern (case-insensitive regex). Items needing a permit or depending on source/strain are listed under \"reviewNotBlocked\" for information only.",
   "updated": "2026-10-03",
   "excluded": [
     {
@@ -348,6 +348,86 @@
         "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/6603bfe8-93c5-4688-abec-f529e5e173da"
       ],
       "removedFromCatalog": "before 2026-10-03"
+    },
+    {
+      "sku": "930-0109-0",
+      "name": "HydrOasis™ Tee Shirt Sml",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "930-0109-3",
+      "name": "HydrOasis™ Tee Shirt Med",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "930-0109-5",
+      "name": "HydrOasis™ Tee Shirt Lrg",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "930-0109-6",
+      "name": "HydrOasis™ Tee Shirt Xlg",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "930-0109-7",
+      "name": "HydrOasis™ Tee Shirt Xxl",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "930-0109-9",
+      "name": "HydrOasis™ Tee Shirt Xxx",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "930-0110-0",
+      "name": "ReptiFauna™ Tee Shirt Sml",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "930-0110-9",
+      "name": "ReptiFauna™ Tee Shirt Xxx",
+      "section": "Dry Good",
+      "category": "Clothing",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "963-0114-9",
+      "name": "Walk In Aviary 85\" x 61\" - 1/2\" Bar Spacing",
+      "section": "Dry Good",
+      "category": "Dry Goods - Miscellaneous",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
+    },
+    {
+      "sku": "963-0113-9",
+      "name": "Walk In Aviary with Side Door - Black",
+      "section": "Dry Good",
+      "category": "Dry Goods - Miscellaneous",
+      "reason": "Richard: not sold on preorder page",
+      "removedFromCatalog": "2026-10-03"
     }
   ],
   "blockedTaxa": [
@@ -1499,6 +1579,18 @@
       "sources": [
         "https://www.law.cornell.edu/regulations/arkansas/209-02-19-Ark-Code-R-009"
       ]
+    }
+  ],
+  "blockedNamePatterns": [
+    {
+      "pattern": "Walk In Aviary",
+      "reason": "Richard: not sold on preorder page",
+      "added": "2026-10-03"
+    },
+    {
+      "pattern": "Tee Shirt",
+      "reason": "Richard: not sold on preorder page",
+      "added": "2026-10-03"
     }
   ]
 }
