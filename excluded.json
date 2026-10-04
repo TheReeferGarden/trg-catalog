@@ -1610,6 +1610,30 @@
         "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/b6063910-0d06-4272-a3ff-ee02d9a76601",
         "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/dc8ada7c-2129-4ce1-87c5-99275c10a389"
       ]
+    },
+    {
+      "skus": [
+        "724-0024-8",
+        "730-0001-9",
+        "730-0003-9",
+        "730-0005-9",
+        "730-0006-9",
+        "730-0007-9",
+        "730-0008-9",
+        "730-0009-9",
+        "730-0011-9",
+        "730-0013-9",
+        "730-0014-9",
+        "730-0015-9",
+        "730-0016-9",
+        "730-0017-9"
+      ],
+      "name": "Indian Ringneck Parakeets (14 color varieties, added 2026-10-04, out of stock)",
+      "scientific": "Psittacula krameri",
+      "decidedBy": "AGFC Addendum R1.02 (Permit Required): selling, breeding or importing a Rose-ringed/Ring-necked Parakeet requires a Wildlife Breeder/Dealer Permit (Code 09.07). Same treatment as African Dwarf Frog.",
+      "sources": [
+        "https://www.agfc.com/resources/code-of-regulations/browse/collections/e097609a-4ef1-459f-98e2-5532730099f6/policies/87ab7207-5365-4b13-a4b9-d29a3782bb16"
+      ]
     }
   ],
   "blockedNamePatterns": [
