@@ -1701,12 +1701,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/black-lizard-loach.jpg",
       "price": 9.99,
       "careId": "",
       "group": "Black Lizard Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Cheongweei Gan / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "115-0124-1",
@@ -1746,12 +1746,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/borneo-redtail-barred-loach.jpg",
       "price": 76.99,
       "careId": "",
       "group": "Borneo Redtail Barred Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Zakqary Roy / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "115-0036-0",
@@ -1804,12 +1804,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/chinese-butterfly-loach.jpg",
       "price": 11.99,
       "careId": "",
       "group": "Chinese Butterfly Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0"
     },
     {
       "sku": "115-0005-3",
@@ -1819,11 +1819,11 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/chinese-butterfly-loach.jpg",
       "price": 26.99,
       "careId": "",
       "group": "Chinese Butterfly Loach",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0"
     },
     {
       "sku": "115-0076-3",
@@ -1833,11 +1833,11 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/chinese-golden-zebra-loach.jpg",
       "price": 9.99,
       "careId": "",
       "group": "Chinese Golden Zebra Loach",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "115-0083-1",
@@ -1862,12 +1862,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/eight-banded-loach.jpg",
       "price": 16.49,
       "careId": "",
       "group": "Eight-Banded Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0"
     },
     {
       "sku": "115-0098-1",
@@ -1877,12 +1877,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/fire-eyed-loach.jpg",
       "price": 18.49,
       "careId": "",
       "group": "Fire-Eyed Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Zakqary Roy / iNaturalist, CC BY"
     },
     {
       "sku": "115-0116-1",
@@ -1937,12 +1937,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/golden-zebra-loach.jpg",
       "price": 7.49,
       "careId": "",
       "group": "Golden Zebra Loach",
       "size_label": "Extra Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0"
     },
     {
       "sku": "115-0042-1",
@@ -1952,12 +1952,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/golden-zebra-loach.jpg",
       "price": 13.49,
       "careId": "",
       "group": "Golden Zebra Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0"
     },
     {
       "sku": "115-0079-1",
@@ -1967,12 +1967,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/green-lizard-loach.jpg",
       "price": 16.49,
       "careId": "",
       "group": "Green Lizard Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Cheongweei Gan / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "115-0075-1",
@@ -1982,12 +1982,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/hillstream-butterfly-loach.jpg",
       "price": 13.49,
       "careId": "",
       "group": "Hillstream Butterfly Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "115-0075-3",
@@ -1997,11 +1997,11 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/hillstream-butterfly-loach.jpg",
       "price": 22.99,
       "careId": "",
       "group": "Hillstream Butterfly Loach",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "115-0112-1",
@@ -2011,12 +2011,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/laos-blackline-torpedo-loach.jpg",
       "price": 15.99,
       "careId": "",
       "group": "Laos Blackline Torpedo Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Lerdsuwa / CC BY-SA 3.0"
     },
     {
       "sku": "115-0092-1",
@@ -2055,12 +2055,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/myer-s-hillstream-loach.jpg",
       "price": 8.49,
       "careId": "",
       "group": "Myer's Hillstream Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Dan L. / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "115-0046-1",
@@ -2130,12 +2130,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/purple-finned-butterfly-loach.jpg",
       "price": 40.99,
       "careId": "",
       "group": "Purple Finned Butterfly Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rudolph Steenkamp / iNaturalist, CC BY-SA (color may vary)"
     },
     {
       "sku": "115-0082-1",
@@ -2160,11 +2160,11 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/red-lizard-loach.jpg",
       "price": 68.99,
       "careId": "",
       "group": "Red Lizard Loach",
-      "photo_credit": ""
+      "photo_credit": "Photo: Cheongweei Gan / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "115-0054-1",
@@ -2174,12 +2174,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/redtail-zipper-loach.jpg",
       "price": 19.49,
       "careId": "",
       "group": "Redtail Zipper Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rejoice Gassah / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "115-0055-1",
@@ -2277,12 +2277,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/siberian-spiny-loach.jpg",
       "price": 19.99,
       "careId": "",
       "group": "Siberian Spiny Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Павел / iNaturalist, CC BY"
     },
     {
       "sku": "115-0020-1",
@@ -2292,12 +2292,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/sumo-loach.jpg",
       "price": 15.99,
       "careId": "",
       "group": "Sumo Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Gerhard Ott / CC BY 3.0"
     },
     {
       "sku": "115-0021-1",
@@ -2307,12 +2307,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/taiwan-river-loach.jpg",
       "price": 8.99,
       "careId": "",
       "group": "Taiwan River Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: 如此甚好 / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "115-0097-1",
@@ -2396,12 +2396,12 @@
       "category": "Botia & Loach",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/zipper-loach.jpg",
       "price": 14.99,
       "careId": "",
       "group": "Zipper Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rejoice Gassah / iNaturalist, CC BY"
     },
     {
       "sku": "115-0002-1",
@@ -2546,12 +2546,12 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-flounder.jpg",
       "price": 9.49,
       "careId": "",
       "group": "Freshwater Flounder",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: coenobita / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0007-3",
@@ -2561,11 +2561,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-flounder.jpg",
       "price": 12.49,
       "careId": "",
       "group": "Freshwater Flounder",
-      "photo_credit": ""
+      "photo_credit": "Photo: coenobita / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0007-5",
@@ -2575,11 +2575,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-flounder.jpg",
       "price": 14.49,
       "careId": "",
       "group": "Freshwater Flounder",
-      "photo_credit": ""
+      "photo_credit": "Photo: coenobita / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0008-0",
@@ -2589,12 +2589,12 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-lionfish.jpg",
       "price": 19.49,
       "careId": "",
       "group": "Freshwater Lionfish",
       "size_label": "Extra Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sir Francis Day / Public domain (color may vary)"
     },
     {
       "sku": "118-0008-1",
@@ -2604,12 +2604,12 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-lionfish.jpg",
       "price": 24.99,
       "careId": "",
       "group": "Freshwater Lionfish",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sir Francis Day / Public domain (color may vary)"
     },
     {
       "sku": "118-0008-3",
@@ -2619,11 +2619,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-lionfish.jpg",
       "price": 30.99,
       "careId": "",
       "group": "Freshwater Lionfish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sir Francis Day / Public domain (color may vary)"
     },
     {
       "sku": "118-0008-6",
@@ -2633,11 +2633,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-lionfish.jpg",
       "price": 40.99,
       "careId": "",
       "group": "Freshwater Lionfish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sir Francis Day / Public domain (color may vary)"
     },
     {
       "sku": "118-0008-5",
@@ -2647,11 +2647,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-lionfish.jpg",
       "price": 58.99,
       "careId": "",
       "group": "Freshwater Lionfish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sir Francis Day / Public domain (color may vary)"
     },
     {
       "sku": "118-0009-5",
@@ -2661,11 +2661,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-pipefish.jpg",
       "price": 17.99,
       "careId": "",
       "group": "Freshwater Pipefish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Mahomed Desai / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0009-1",
@@ -2675,12 +2675,12 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-pipefish.jpg",
       "price": 26.99,
       "careId": "",
       "group": "Freshwater Pipefish",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Mahomed Desai / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0040-3",
@@ -2690,11 +2690,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-red-stripe-pipefish.jpg",
       "price": 23.99,
       "careId": "",
       "group": "Freshwater Red Stripe Pipefish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Mahomed Desai / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0010-1",
@@ -2704,12 +2704,12 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-tonguefish.jpg",
       "price": 17.49,
       "careId": "",
       "group": "Freshwater Tonguefish",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Ron Pasieczna / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0010-3",
@@ -2719,11 +2719,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-tonguefish.jpg",
       "price": 25.99,
       "careId": "",
       "group": "Freshwater Tonguefish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Ron Pasieczna / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0010-5",
@@ -2733,11 +2733,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-tonguefish.jpg",
       "price": 95.99,
       "careId": "",
       "group": "Freshwater Tonguefish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Ron Pasieczna / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "118-0087-3",
@@ -2747,11 +2747,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-wasp-fish.jpg",
       "price": 99.99,
       "careId": "",
       "group": "Freshwater Wasp Fish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sir Francis Day / Public domain (color may vary)"
     },
     {
       "sku": "118-0069-3",
@@ -2761,11 +2761,11 @@
       "category": "Brackish",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/new-guinea-tiger-datnoid.jpg",
       "price": 183.99,
       "careId": "",
       "group": "New Guinea Tiger Datnoid",
-      "photo_credit": ""
+      "photo_credit": "Photo: Torpido / CC BY-SA 3.0"
     },
     {
       "sku": "118-0032-1",
@@ -2909,12 +2909,12 @@
       "category": "Catfish - Asian",
       "inStock": false,
       "scientific": "Chandramara chandramara",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/hummingbird-catfish.jpg",
       "price": 8.99,
       "careId": "",
       "group": "Hummingbird Catfish",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Gregoire Germeau / CC BY 3.0"
     },
     {
       "sku": "124-0003-1",
@@ -3218,12 +3218,12 @@
       "category": "Catfish - Neotropical",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/chameleon-whiptail-catfish.jpg",
       "price": 61.99,
       "careId": "",
       "group": "Chameleon Whiptail Catfish",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: demianlescano / iNaturalist, CC0 (color may vary)"
     },
     {
       "sku": "130-0163-3",
@@ -3233,11 +3233,11 @@
       "category": "Catfish - Neotropical",
       "inStock": false,
       "scientific": "Hemidoras sp.",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/hemidoras-mouse-catfish.jpg",
       "price": 57.99,
       "careId": "",
       "group": "Hemidoras Mouse Catfish",
-      "photo_credit": ""
+      "photo_credit": "Photo: Carl H. Eigenmann / Waldo Lee McAtee / Public domain (color may vary)"
     },
     {
       "sku": "130-0198-1",
@@ -4481,12 +4481,12 @@
       "category": "Danio & Minnow",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/celestial-pearl-danio-male.jpg",
       "price": 9.99,
       "careId": "",
       "group": "Celestial Pearl Danio Male",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Cisamarc / CC BY-SA 3.0"
     },
     {
       "sku": "166-0053-1",
@@ -4496,12 +4496,12 @@
       "category": "Danio & Minnow",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/dadio-danio.jpg",
       "price": 9.49,
       "careId": "",
       "group": "Dadio Danio",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Cassius Chaerea / CC BY-SA 4.0"
     },
     {
       "sku": "166-0004-1",
@@ -4751,12 +4751,12 @@
       "category": "Danio & Minnow",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/green-bar-barilius-danio.jpg",
       "price": 8.99,
       "careId": "",
       "group": "Green Bar Barilius Danio",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sandipan Das / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "166-0052-1",
@@ -4766,12 +4766,12 @@
       "category": "Danio & Minnow",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/lake-inle-danio.jpg",
       "price": 11.49,
       "careId": "",
       "group": "Lake Inle Danio",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: David M, Parichy / CC BY 4.0"
     },
     {
       "sku": "166-0009-1",
@@ -4811,12 +4811,12 @@
       "category": "Danio & Minnow",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/moustache-danio.jpg",
       "price": 18.49,
       "careId": "",
       "group": "Moustache Danio",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Haneesh K M / iNaturalist, CC0 (color may vary)"
     },
     {
       "sku": "166-0014-1",
@@ -4826,12 +4826,12 @@
       "category": "Danio & Minnow",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/orange-chela-danio.jpg",
       "price": 7.49,
       "careId": "",
       "group": "Orange Chela Danio",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Cassius Chaerea / CC BY-SA 4.0"
     },
     {
       "sku": "166-0015-5",
@@ -6090,12 +6090,12 @@
       "category": "Freshwater Crustacean",
       "inStock": false,
       "scientific": "Macrobrachium rosenbergi",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-prawn.jpg",
       "price": 25.99,
       "careId": "",
       "group": "Freshwater Prawn",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Светлана Царахова / iNaturalist, CC0"
     },
     {
       "sku": "250-0103-1",
@@ -6929,12 +6929,12 @@
       "category": "Freshwater Scavenger",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/chinese-striped-butterfly-loach.jpg",
       "price": 14.99,
       "careId": "",
       "group": "Chinese Striped Butterfly Loach",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rudolph Steenkamp / iNaturalist, CC BY-SA (color may vary)"
     },
     {
       "sku": "235-0003-0",
@@ -6944,12 +6944,12 @@
       "category": "Freshwater Scavenger",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/chinese-striped-butterfly-loach.jpg",
       "price": 15.49,
       "careId": "",
       "group": "Chinese Striped Butterfly Loach",
       "size_label": "Extra Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rudolph Steenkamp / iNaturalist, CC BY-SA (color may vary)"
     },
     {
       "sku": "235-0015-3",
@@ -7266,12 +7266,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/albino-mystery-snail.jpg",
       "price": 4.49,
       "careId": "",
       "group": "Albino Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0011-1",
@@ -7281,12 +7281,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/assorted-mystery-snail.jpg",
       "price": 4.49,
       "careId": "",
       "group": "Assorted Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (representative photo)"
     },
     {
       "sku": "253-0056-1",
@@ -7311,12 +7311,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Neritina turrita",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/batman-nerite-snail.jpg",
       "price": 2.99,
       "careId": "",
       "group": "Batman Nerite Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0"
     },
     {
       "sku": "253-0003-1",
@@ -7326,12 +7326,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/black-mystery-snail.jpg",
       "price": 3.49,
       "careId": "",
       "group": "Black Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0054-1",
@@ -7341,12 +7341,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Neritina pulligera",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/black-racer-nerite-snail.jpg",
       "price": 2.99,
       "careId": "",
       "group": "Black Racer Nerite Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0"
     },
     {
       "sku": "253-0004-1",
@@ -7356,12 +7356,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/blue-mystery-snail.jpg",
       "price": 3.99,
       "careId": "",
       "group": "Blue Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0064-1",
@@ -7371,12 +7371,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Faunus sp.",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/blue-rabbit-snail.jpg",
       "price": 14.99,
       "careId": "",
       "group": "Blue Rabbit Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Cheryl Stinchcomb / iNaturalist, CC BY"
     },
     {
       "sku": "253-0055-1",
@@ -7401,12 +7401,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Filopaludina martensi",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/ghost-piano-snail.jpg",
       "price": 3.99,
       "careId": "",
       "group": "Ghost Piano Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Utain Pummarin / iNaturalist, CC BY"
     },
     {
       "sku": "253-0109-1",
@@ -7416,12 +7416,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Brotia herculea",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/giant-tower-cap-snail.jpg",
       "price": 8.99,
       "careId": "",
       "group": "Giant Tower Cap Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0"
     },
     {
       "sku": "253-0053-5",
@@ -7431,11 +7431,11 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pilsbryoconcha exilis",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/gold-asian-freshwater-clam.jpg",
       "price": 7.49,
       "careId": "",
       "group": "Gold Asian Freshwater Clam",
-      "photo_credit": ""
+      "photo_credit": "Photo: Franz Anthony / iNaturalist, CC BY"
     },
     {
       "sku": "253-0053-1",
@@ -7445,12 +7445,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pilsbryoconcha exilis",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/gold-asian-freshwater-clam.jpg",
       "price": 8.49,
       "careId": "",
       "group": "Gold Asian Freshwater Clam",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Franz Anthony / iNaturalist, CC BY"
     },
     {
       "sku": "253-0006-0",
@@ -7460,12 +7460,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacaea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/gold-mystery-snail.jpg",
       "price": 3.99,
       "careId": "",
       "group": "Gold Mystery Snail",
       "size_label": "Extra Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0006-1",
@@ -7475,12 +7475,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/gold-mystery-snail.jpg",
       "price": 4.49,
       "careId": "",
       "group": "Gold Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0093-5",
@@ -7490,11 +7490,11 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Hyriopsis bialatus",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/gold-shark-tooth-freshwater-clam.jpg",
       "price": 11.99,
       "careId": "",
       "group": "Gold Shark Tooth Freshwater Clam",
-      "photo_credit": ""
+      "photo_credit": "Photo: Simpson, 1900 / CC0 (color may vary)"
     },
     {
       "sku": "253-0116-1",
@@ -7519,12 +7519,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Brotia pagodula",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/horned-pagoda-snail.jpg",
       "price": 8.99,
       "careId": "",
       "group": "Horned Pagoda Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Frank Koehler / CC BY-SA 3.0"
     },
     {
       "sku": "253-0009-1",
@@ -7534,12 +7534,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/ivory-mystery-snail.jpg",
       "price": 4.49,
       "careId": "",
       "group": "Ivory Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0009-5",
@@ -7549,11 +7549,11 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/ivory-mystery-snail.jpg",
       "price": 7.49,
       "careId": "",
       "group": "Ivory Mystery Snail",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0031-1",
@@ -7563,12 +7563,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/jade-mystery-snail.jpg",
       "price": 4.99,
       "careId": "",
       "group": "Jade Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0090-1",
@@ -7578,12 +7578,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Neritina juttingae",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/king-koopa-nerite-snail.jpg",
       "price": 4.99,
       "careId": "",
       "group": "King Koopa Nerite Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Ting Hui Ng, Siong Kiat Tan, Wing Hing Wong, Rudolf Meier, Sow-Yan Chan, Heok Hu / CC BY 4.0"
     },
     {
       "sku": "253-0032-1",
@@ -7593,12 +7593,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacae bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/lavender-mystery-snail.jpg",
       "price": 4.99,
       "careId": "",
       "group": "Lavender Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0107-1",
@@ -7608,12 +7608,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Neritodryas dubia",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/lightning-nerite-snail.jpg",
       "price": 5.49,
       "careId": "",
       "group": "Lightning Nerite Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Manuel CABALLER / CC BY 4.0"
     },
     {
       "sku": "253-0104-1",
@@ -7623,12 +7623,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/magenta-mystery-snail.jpg",
       "price": 4.99,
       "careId": "",
       "group": "Magenta Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0111-1",
@@ -7638,12 +7638,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Septaria porcellana",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/marbled-limpet-nerite-snail.jpg",
       "price": 9.99,
       "careId": "",
       "group": "Marbled Limpet Nerite Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Jessica Utrup / iNaturalist, CC BY"
     },
     {
       "sku": "253-0051-1",
@@ -7668,12 +7668,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Brotia costula",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/pagoda-snail.jpg",
       "price": 5.99,
       "careId": "",
       "group": "Pagoda Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sabarni Sarker / iNaturalist, CC BY"
     },
     {
       "sku": "253-0088-1",
@@ -7698,12 +7698,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Neritina variegata",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/red-lipped-nerite-snail.jpg",
       "price": 5.49,
       "careId": "",
       "group": "Red Lipped Nerite Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Manuel CABALLER / CC BY 4.0"
     },
     {
       "sku": "253-0041-1",
@@ -7713,12 +7713,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Pomacea bridgesii",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/red-mystery-snail.jpg",
       "price": 4.99,
       "careId": "",
       "group": "Red Mystery Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0 (color may vary)"
     },
     {
       "sku": "253-0065-1",
@@ -7743,11 +7743,11 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Hyriopsis bialatus",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/shark-tooth-freshwater-clam.jpg",
       "price": 28.99,
       "careId": "",
       "group": "Shark Tooth Freshwater Clam",
-      "photo_credit": ""
+      "photo_credit": "Photo: Simpson, 1900 / CC0"
     },
     {
       "sku": "253-0072-1",
@@ -7757,12 +7757,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Polymesoda sp.",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/snow-white-freshwater-clam.jpg",
       "price": 19.49,
       "careId": "",
       "group": "Snow White Freshwater Clam",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Alison Northup / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "253-0126-1",
@@ -7787,12 +7787,12 @@
       "category": "Freshwater Snail & Mollusc",
       "inStock": false,
       "scientific": "Tylomelania towetensis",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/white-spotted-rabbit-snail.jpg",
       "price": 14.99,
       "careId": "",
       "group": "White Spotted Rabbit Snail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: H. Zell / CC BY-SA 3.0"
     },
     {
       "sku": "253-0070-0",
@@ -9013,12 +9013,12 @@
       "category": "Indo-Pacific Freshwater",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-long-snouted-pipefish.jpg",
       "price": 16.49,
       "careId": "",
       "group": "Freshwater Long-Snouted Pipefish",
       "size_label": "Extra Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: NasserHalaweh / CC BY-SA 4.0"
     },
     {
       "sku": "214-0069-1",
@@ -9028,12 +9028,12 @@
       "category": "Indo-Pacific Freshwater",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/freshwater-long-snouted-pipefish.jpg",
       "price": 20.99,
       "careId": "",
       "group": "Freshwater Long-Snouted Pipefish",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: NasserHalaweh / CC BY-SA 4.0"
     },
     {
       "sku": "214-0080-3",
@@ -9043,11 +9043,11 @@
       "category": "Indo-Pacific Freshwater",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/longnose-freshwater-pipefish.jpg",
       "price": 31.99,
       "careId": "",
       "group": "Longnose Freshwater Pipefish",
-      "photo_credit": ""
+      "photo_credit": "Photo: NasserHalaweh / CC BY-SA 4.0"
     },
     {
       "sku": "214-0085-1",
@@ -10542,12 +10542,12 @@
       "category": "Lake Malawi Cichlid",
       "inStock": true,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/labidochromis-sp-perlmutt-cichlid.jpg",
       "price": 16.49,
       "careId": "",
       "group": "Labidochromis sp. Perlmutt Cichlid",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Philip Schaffer / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "154-0001-1",
@@ -13354,11 +13354,11 @@
       "category": "Neotropical Cichlid",
       "inStock": true,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/jewel-pike-cichlid.jpg",
       "price": 32.99,
       "careId": "",
       "group": "Jewel Pike Cichlid",
-      "photo_credit": ""
+      "photo_credit": "Photo: Sebastián Fornés / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "160-0277-3",
@@ -16124,12 +16124,12 @@
       "category": "Rainbowfish",
       "inStock": true,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/paskai-rainbow.jpg",
       "price": 10.99,
       "careId": "",
       "group": "Paskai Rainbow",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: coenobita / iNaturalist, CC BY (color may vary)"
     },
     {
       "sku": "232-0004-1",
@@ -16228,12 +16228,12 @@
       "category": "Rasbora",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/blue-axelrodi-rasbora.jpg",
       "price": 9.49,
       "careId": "",
       "group": "Blue Axelrodi Rasbora",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rupert A. Collins / CC BY 3.0 (color may vary)"
     },
     {
       "sku": "232-0023-1",
@@ -16243,12 +16243,12 @@
       "category": "Rasbora",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/green-axelrodi-rasbora.jpg",
       "price": 3.49,
       "careId": "",
       "group": "Green Axelrodi Rasbora",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rupert A. Collins / CC BY 3.0 (color may vary)"
     },
     {
       "sku": "232-0033-1",
@@ -16258,12 +16258,12 @@
       "category": "Rasbora",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/rasbora-axelrodi.jpg",
       "price": 5.99,
       "careId": "",
       "group": "Rasbora Axelrodi",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rupert A. Collins / CC BY 3.0"
     },
     {
       "sku": "232-0026-1",
@@ -16273,12 +16273,12 @@
       "category": "Rasbora",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/red-axelrodi-rasbora.jpg",
       "price": 11.99,
       "careId": "",
       "group": "Red Axelrodi Rasbora",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Rupert A. Collins / CC BY 3.0 (color may vary)"
     },
     {
       "sku": "232-0024-1",
@@ -16434,12 +16434,12 @@
       "category": "South American - Miscellaneous",
       "inStock": false,
       "scientific": "Characidium fasciatum",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/hummingbird-characin.jpg",
       "price": 3.99,
       "careId": "",
       "group": "Hummingbird Characin",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Ericson Cernawsky Igual / iNaturalist, CC BY-SA"
     },
     {
       "sku": "217-0013-1",
@@ -17205,12 +17205,12 @@
       "category": "Swordtail",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/montezumae-swordtail.jpg",
       "price": 3.49,
       "careId": "",
       "group": "Montezumae Swordtail",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Juan Cruzado Cortés / iNaturalist, CC BY-SA"
     },
     {
       "sku": "205-0096-5",
@@ -17220,11 +17220,11 @@
       "category": "Swordtail",
       "inStock": false,
       "scientific": "",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/montezumae-swordtail.jpg",
       "price": 11.49,
       "careId": "",
       "group": "Montezumae Swordtail",
-      "photo_credit": ""
+      "photo_credit": "Photo: Juan Cruzado Cortés / iNaturalist, CC BY-SA"
     },
     {
       "sku": "205-0079-1",
@@ -18409,12 +18409,12 @@
       "category": "Tetra",
       "inStock": false,
       "scientific": "Iguanodectes spilurus",
-      "image": "",
+      "image": "https://thereefergarden.github.io/trg-catalog/img/slender-chameleon-tetra.jpg",
       "price": 12.99,
       "careId": "",
       "group": "Slender Chameleon Tetra",
       "size_label": "Small",
-      "photo_credit": ""
+      "photo_credit": "Photo: Kevin Brix / iNaturalist, CC BY-SA"
     },
     {
       "sku": "244-0014-1",
