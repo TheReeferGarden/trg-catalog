@@ -1,6 +1,6 @@
 {
-  "about": "Items that must never be listed on The Reefer Garden preorder catalog: mostly because they are illegal to sell or possess in Arkansas, plus a few Richard does not sell on the preorder page (reason \"Richard: not sold on preorder page\"). The Sun Pet daily sync must skip any item whose sku is in \"excluded\" or \"otherSunPetCodes\", or whose scientific name matches a \"blockedTaxa\" pattern (case-insensitive regex), or whose name matches a \"blockedNamePatterns\" pattern (case-insensitive regex). Items needing a permit or depending on source/strain are listed under \"reviewNotBlocked\" for information only.",
-  "updated": "2026-10-03",
+  "about": "Items that must never be listed on The Reefer Garden preorder catalog: mostly because they are illegal to sell or possess in Arkansas, plus a few Richard does not sell on the preorder page (reason \"Richard: not sold on preorder page\"). The Sun Pet daily sync must skip any item whose sku is in \"excluded\" or \"otherSunPetCodes\", or whose scientific name matches a \"blockedTaxa\" pattern (case-insensitive regex), or whose name matches a \"blockedNamePatterns\" pattern (case-insensitive regex). Items needing a permit or depending on source/strain are listed under \"reviewNotBlocked\" for information only. New Sun Pet SKUs are also skipped if their Sun Pet group prefix is in \"blockedSunPetPrefixes\" or they would land in a \"blockedCategories\" department/category (corals, Richard 2026-10-16); existing items in those categories are reported as problems.",
+  "updated": "2026-10-16",
   "excluded": [
     {
       "sku": "247-0028-1",
@@ -1656,6 +1656,65 @@
       "pattern": "T Shirt",
       "reason": "Richard: not sold on preorder page",
       "added": "2026-10-03"
+    }
+  ],
+  "blockedSunPetPrefixes": [
+    {
+      "prefix": "447",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "prefix": "450",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "prefix": "453",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "prefix": "459",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "prefix": "460",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    }
+  ],
+  "blockedCategories": [
+    {
+      "department": "Saltwater",
+      "category": "Mushroom Coral",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "department": "Saltwater",
+      "category": "Polyp",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "department": "Saltwater",
+      "category": "Sea Fan & Gorgonian",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "department": "Saltwater",
+      "category": "Stony Coral",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
+    },
+    {
+      "department": "Saltwater",
+      "category": "Stony Coral Frags",
+      "reason": "Corals off the preorder page until TRG has its own photos (Richard 2026-10-16)",
+      "added": "2026-10-16"
     }
   ]
 }

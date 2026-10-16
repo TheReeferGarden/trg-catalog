@@ -1,6 +1,6 @@
 {
- "version": "2026-10-15",
- "note": "Broad filter groups for /preorder. Categories not listed fall into 'Other'.",
+ "version": "2026-10-16",
+ "note": "Broad filter groups for /preorder. Categories not listed fall into 'Other'. 2026-10-16: corals removed from preorder (Richard); Corals & Anemones group dropped, Anemone and Sponge moved into Inverts.",
  "otherLabel": "Other",
  "flat": [
   "Bird"
@@ -60,20 +60,9 @@
      "Starfish & Urchin",
      "Nudibranch",
      "Feather Duster",
-     "Octopus & Cephalopods"
-    ]
-   },
-   {
-    "id": "corals",
-    "label": "Corals & Anemones",
-    "categories": [
-     "Stony Coral",
-     "Stony Coral Frags",
-     "Polyp",
-     "Mushroom Coral",
-     "Sea Fan & Gorgonian",
-     "Sponge",
-     "Anemone"
+     "Octopus & Cephalopods",
+     "Anemone",
+     "Sponge"
     ]
    },
    {
