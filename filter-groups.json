@@ -1,0 +1,289 @@
+{
+ "version": "2026-10-15",
+ "note": "Broad filter groups for /preorder. Categories not listed fall into 'Other'.",
+ "otherLabel": "Other",
+ "flat": [
+  "Bird"
+ ],
+ "labels": {
+  "Freshwater|Plants": "Aquarium Plants"
+ },
+ "departments": {
+  "Saltwater": [
+   {
+    "id": "fish",
+    "label": "Fish",
+    "categories": [
+     "Anthias",
+     "Basslet & Pseudochromis",
+     "Blenny",
+     "Boxfish & Cowfish",
+     "Butterflyfish",
+     "Clownfish",
+     "Damsel",
+     "Dragonet",
+     "Dwarf & Fairy Wrasse",
+     "Dwarf Angelfish",
+     "Filefish",
+     "Grouper",
+     "Hamlet",
+     "Hawkfish",
+     "Hogfish",
+     "Jack & Snapper",
+     "Jawfish",
+     "Lionfish & Scorpion",
+     "Marine Angelfish",
+     "Marine Cardinal",
+     "Marine Eel",
+     "Marine Goby",
+     "Marine Miscellaneous",
+     "Marine Puffer",
+     "Marine Shark & Ray",
+     "Parrotfish",
+     "Rabbitfish",
+     "Seahorse & Pipefish",
+     "Squirrel & Soldier",
+     "Tang & Surgeonfish",
+     "Tank Raised Marine Fish",
+     "Triggerfish",
+     "Wrasse"
+    ]
+   },
+   {
+    "id": "inverts",
+    "label": "Inverts",
+    "categories": [
+     "Marine Crab",
+     "Marine Lobster",
+     "Marine Shrimp",
+     "Marine Snail",
+     "Starfish & Urchin",
+     "Nudibranch",
+     "Feather Duster",
+     "Octopus & Cephalopods"
+    ]
+   },
+   {
+    "id": "corals",
+    "label": "Corals & Anemones",
+    "categories": [
+     "Stony Coral",
+     "Stony Coral Frags",
+     "Polyp",
+     "Mushroom Coral",
+     "Sea Fan & Gorgonian",
+     "Sponge",
+     "Anemone"
+    ]
+   },
+   {
+    "id": "live-rock",
+    "label": "Live Rock",
+    "categories": [
+     "Live Rock"
+    ]
+   },
+   {
+    "id": "plants",
+    "label": "Plants & Algae",
+    "categories": [
+     "Marine Plant & Algae"
+    ]
+   }
+  ],
+  "Freshwater": [
+   {
+    "id": "fish",
+    "label": "Fish",
+    "categories": [
+     "African Fish - Miscellaneous",
+     "Angelfish",
+     "Apistogramma",
+     "Arowana",
+     "Barb",
+     "Betta",
+     "Bichir / Polypterus",
+     "Botia & Loach",
+     "Brackish",
+     "Catfish - African",
+     "Catfish - Asian",
+     "Catfish - Neotropical",
+     "Cichlid - Miscellaneous",
+     "Corydoras",
+     "Danio & Minnow",
+     "Discus",
+     "Fancy Guppy",
+     "Freshwater & Brackish Goby",
+     "Freshwater Eel",
+     "Freshwater Scavenger",
+     "Freshwater Shark",
+     "Goldfish - Domestic",
+     "Goldfish - Imported",
+     "Gourami",
+     "Indo-Pacific Freshwater",
+     "Killifish",
+     "Knifefish",
+     "Koi",
+     "Lake Malawi Cichlid",
+     "Lake Tanganyika Cichlid",
+     "Molly",
+     "Mormyrid",
+     "Nano Fish",
+     "Neotropical Cichlid",
+     "Oddballs & Rarities",
+     "Oscar",
+     "Platy",
+     "Pleco - Tank Raised",
+     "Pleco - Wild",
+     "Puffer",
+     "Rainbowfish",
+     "Rasbora",
+     "South American - Miscellaneous",
+     "Swordtail",
+     "Synodontis",
+     "Tetra",
+     "Variatus"
+    ]
+   },
+   {
+    "id": "inverts",
+    "label": "Inverts",
+    "categories": [
+     "Freshwater Crustacean",
+     "Freshwater Snail & Mollusc"
+    ]
+   },
+   {
+    "id": "plants",
+    "label": "Plants",
+    "categories": [
+     "Plants",
+     "Roots-in-Water Plants"
+    ]
+   },
+   {
+    "id": "amphibians",
+    "label": "Amphibians",
+    "categories": [
+     "Aquatic Amphibian"
+    ]
+   },
+   {
+    "id": "feeders",
+    "label": "Feeders",
+    "categories": [
+     "Freshwater Feeder"
+    ]
+   }
+  ],
+  "Reptile": [
+   {
+    "id": "reptiles",
+    "label": "Reptiles",
+    "categories": [
+     "Boa",
+     "Chameleon",
+     "Gecko",
+     "Lizard - Miscellaneous",
+     "Snake - Miscellaneous",
+     "Tortoise"
+    ]
+   },
+   {
+    "id": "feeders",
+    "label": "Feeder Insects",
+    "categories": [
+     "Insect - Feeder"
+    ]
+   },
+   {
+    "id": "bioactive",
+    "label": "Bio-Active Plants & Supplies",
+    "categories": [
+     "Bio-Active"
+    ]
+   },
+   {
+    "id": "crabs-spiders",
+    "label": "Land Crabs & Tarantulas",
+    "categories": [
+     "Crab - Land",
+     "Tarantula"
+    ]
+   }
+  ],
+  "Small Animal": [
+   {
+    "id": "rodents",
+    "label": "Hamsters, Mice & Rats",
+    "categories": [
+     "Gerbil",
+     "Hamster",
+     "Hamster - Dwarf",
+     "Mouse",
+     "Rat"
+    ]
+   },
+   {
+    "id": "guinea-rabbit",
+    "label": "Guinea Pigs & Rabbits",
+    "categories": [
+     "Guinea Pig",
+     "Rabbit"
+    ]
+   }
+  ],
+  "Dry Good": [
+   {
+    "id": "foods",
+    "label": "Foods",
+    "categories": [
+     "Packaged Dry Foods",
+     "Packaged Live Foods",
+     "Frozen Feeder Animals"
+    ]
+   },
+   {
+    "id": "equipment",
+    "label": "Equipment & Tools",
+    "categories": [
+     "Aquarium Tools",
+     "Lifegard Aquatics",
+     "Packing Supplies"
+    ]
+   },
+   {
+    "id": "water-care",
+    "label": "Water Care, Salt & Plant Care",
+    "categories": [
+     "Continuum Products",
+     "Salt",
+     "Tropica Plant Care"
+    ]
+   },
+   {
+    "id": "decor",
+    "label": "Decor & Rock",
+    "categories": [
+     "Natural Decoration"
+    ]
+   },
+   {
+    "id": "pet",
+    "label": "Ferret & Hermit Crab",
+    "categories": [
+     "Marshall's Products",
+     "Hermit Crab Supplies"
+    ]
+   },
+   {
+    "id": "misc",
+    "label": "More Supplies",
+    "categories": [
+     "Dry Goods - Miscellaneous"
+    ]
+   }
+  ],
+  "Bird": []
+ }
+}
