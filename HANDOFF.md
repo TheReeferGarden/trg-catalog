@@ -1,22 +1,25 @@
 # HANDOFF: trg-catalog to thereefergarden-site
 
 ## Flow
-1. The catalog bot commits the files to `handoff/<YYYY-MM-DD>-<name>/` in https://github.com/TheReeferGarden/trg-catalog (public on purpose: GitHub Pages serves the live catalog from it).
+1. The catalog bot commits the files to `handoff/<YYYY-MM-DD>-<name>/` in https://github.com/allsiterepos/trg-catalog (public on purpose: GitHub Pages serves the live catalog from it).
 2. Richard pastes the prompt below into the TRG Grok Build chat.
 3. The chat pulls this repo, copies the files byte-for-byte, and pushes to thereefergarden-site.
 4. Richard presses Publish.
 5. The catalog bot verifies the live md5 and bytes.
 
 ## Current handoff status
-`handoff/2026-10-28-test/`, built 2026-10-28: waiting for Richard to paste the prompt. Replaces the stale Oct 18 `/catalog.json` in the site (4,349 items, 1,852 of them out of stock).
+`handoff/2026-10-28-rename-allsiterepos/`, staged 2026-10-28: waiting for the GitHub account rename to `allsiterepos`. The only change is the GitHub Pages host in the two files the site keeps: `thereefergarden.github.io` becomes `allsiterepos.github.io`. Paste the prompt only AFTER the rename is done and `https://allsiterepos.github.io/trg-catalog/catalog.json` returns 200.
 
 | File | md5 | bytes | Destination in thereefergarden-site | Status |
 |---|---|---|---|---|
-| `handoff/2026-10-28-test/catalog.json` | `6cabb754f05d53c67c9ba49ecd2cdcba` | 970162 | `/catalog.json` | pending (2538 items, none out of stock) |
+| `handoff/2026-10-28-rename-allsiterepos/catalog.json` | `e8572bd3902fded1b0b61407caadc943` | 965299 | `/catalog.json` | staged (rename only, same items as the live fallback) |
+| `handoff/2026-10-28-rename-allsiterepos/preorder.js` | `86f3e54beafc7d6529350128b70c8fdc` | 49558 | `/preorder.js` | staged (3 URLs changed) |
+
+Previous: `handoff/2026-10-28-test/` (same `/catalog.json`, old host, already used).
 
 ## Prompt for the TRG Grok Build chat
 ````markdown
-Pull the latest main from https://github.com/TheReeferGarden/trg-catalog. Copy these files from handoff/2026-10-28-test/ into thereefergarden-site, byte-for-byte (no editing, merging, or regenerating): catalog.json -> /catalog.json. Confirm the md5 of each copied file matches: catalog.json: 6cabb754f05d53c67c9ba49ecd2cdcba (970162 bytes). Commit and push to thereefergarden-site, then say 'ready to publish'.
+Pull the latest main from https://github.com/allsiterepos/trg-catalog. Copy these files from handoff/2026-10-28-rename-allsiterepos/ into thereefergarden-site, byte-for-byte (no editing, merging, or regenerating): catalog.json -> /catalog.json; preorder.js -> /preorder.js. Confirm the md5 of each copied file matches: catalog.json: e8572bd3902fded1b0b61407caadc943 (965299 bytes); preorder.js: 86f3e54beafc7d6529350128b70c8fdc (49558 bytes). Commit and push to thereefergarden-site, then say 'ready to publish'.
 ````
 
 ## Rules
