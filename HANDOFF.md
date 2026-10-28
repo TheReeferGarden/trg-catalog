@@ -8,15 +8,15 @@
 5. The catalog bot verifies the live md5 and bytes.
 
 ## Current handoff status
-`handoff/2026-10-28-catalog-refresh/`, built 2026-10-28: waiting for Richard to paste the prompt. Replaces the stale Oct 18 `/catalog.json` in the site (4,349 items, 1,852 of them out of stock).
+`handoff/2026-10-28-test/`, built 2026-10-28: waiting for Richard to paste the prompt. Replaces the stale Oct 18 `/catalog.json` in the site (4,349 items, 1,852 of them out of stock).
 
 | File | md5 | bytes | Destination in thereefergarden-site | Status |
 |---|---|---|---|---|
-| `handoff/2026-10-28-catalog-refresh/catalog.json` | `6cabb754f05d53c67c9ba49ecd2cdcba` | 970162 | `/catalog.json` | pending (2538 items, none out of stock) |
+| `handoff/2026-10-28-test/catalog.json` | `6cabb754f05d53c67c9ba49ecd2cdcba` | 970162 | `/catalog.json` | pending (2538 items, none out of stock) |
 
 ## Prompt for the TRG Grok Build chat
 ````markdown
-Pull the latest main from https://github.com/TheReeferGarden/trg-catalog. Copy these files from handoff/2026-10-28-catalog-refresh/ into thereefergarden-site, byte-for-byte (no editing, merging, or regenerating): catalog.json -> /catalog.json. Confirm the md5 of each copied file matches: catalog.json: 6cabb754f05d53c67c9ba49ecd2cdcba (970162 bytes). Commit and push to thereefergarden-site, then say 'ready to publish'.
+Pull the latest main from https://github.com/TheReeferGarden/trg-catalog. Copy these files from handoff/2026-10-28-test/ into thereefergarden-site, byte-for-byte (no editing, merging, or regenerating): catalog.json -> /catalog.json. Confirm the md5 of each copied file matches: catalog.json: 6cabb754f05d53c67c9ba49ecd2cdcba (970162 bytes). Commit and push to thereefergarden-site, then say 'ready to publish'.
 ````
 
 ## Rules
